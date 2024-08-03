@@ -3,7 +3,7 @@
 title: Zhikun Chen
 
 # Name pronunciation (optional)
-name_pronunciation: 陈智昆
+name_pronunciation: Zhikun Chen
 
 # Full name (for SEO)
 first_name: Zhikun
